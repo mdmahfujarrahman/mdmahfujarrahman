@@ -1,25 +1,26 @@
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Md mdmahfujar Rahman</h1>
 
-<h3 align="center">Web Specialist</h3>
+<h3 align="center">Web and SEO Specialist</h3>
 <br />
 <br />
 
 [![Github](https://img.shields.io/github/followers/mdmahfujarrahman?label=Follow&style=social)](https://github.com/mdmahfujarrahman)&nbsp;![Profile views](https://gpvc.arturio.dev/mdmahfujarrahman)
 
-🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+## :eyes: Current overview
 
-💬 Ask me about **Web Solutions and SEO**
+-   ### 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
 
-📫 How to reach me: ahmedmahfuj28@gmail.com
+-   ### 💬 Ask me about **Web Solutions and SEO**
 
-⚡ Fun fact **Smile is my strength :)**
-<br/><br/>
+-   ### 📫 How to reach me: ahmedmahfuj28@gmail.com
+
+-   ### ⚡ Fun fact **Smile is my strength :)**
+    <br/><br/>
 
 #### :muscle: Things I am challenging myself with:
 
--   I try to learn something new every day!!
--   Coding at least 3 hours a day
--   Improving my CV with some education apart from university
+-   ### I try to learn something new every day!!
+-   ### Coding at least 3 hours a day
 
 <br />
 
