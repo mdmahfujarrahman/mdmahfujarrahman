@@ -8,7 +8,7 @@
 
 ## :eyes: Current overview
 
--   ### 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+-   ### 🌱 I’m currently learning [Redux](https://redux.js.org/)
 
 -   ### 💬 Ask me about **Web Solutions and SEO**
 
