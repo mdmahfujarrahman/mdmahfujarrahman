@@ -8,7 +8,7 @@
 
 ## :eyes: Current overview
 
--   ### 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+-   ### 🌱 I’m currently learning [Data Structure and Algorithms](https://www.google.com/search?q=Data+Structure+and+Algorithms&oq=Data+Structure+and+Algorithms&aqs=chrome..69i57j69i59j69i60l3.529j0j7&sourceid=chrome&ie=UTF-8)
 
 -   ### 💬 Ask me about **Web Solutions and SEO**
 
