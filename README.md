@@ -4,7 +4,6 @@
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/mdmahfujarrahman?label=Follow&style=social)](https://github.com/mdmahfujarrahman)&nbsp;![Profile views](https://gpvc.arturio.dev/mdmahfujarrahman)
 
 ## :eyes: Current overview
 
