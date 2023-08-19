@@ -36,7 +36,7 @@
 <br/> <br/>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="mailto:ahmedmahfuj28@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/12/px-Circle-icons-mail-svg-PNG-Download-1.png" height="30" width="30"/>
+
 <a href="https://www.linkedin.com/in/md-mahfujar-rahman/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
 <a href="https://twitter.com/Mahfujahmed28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Mahfuj.ahmed0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
