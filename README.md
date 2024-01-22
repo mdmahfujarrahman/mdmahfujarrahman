@@ -19,7 +19,7 @@
 #### :muscle: Things I am challenging myself with:
 
 -   ### I try to learn something new every day!!
--   ### Coding at least 3 hours a day
+-   ### Coding at least 4 hours a day
 
 <br />
 
