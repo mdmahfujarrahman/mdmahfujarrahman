@@ -7,7 +7,7 @@
 
 ## :eyes: Current overview
 
--   ### 🌱 I’m currently learning [Web Automation And Docker]([https://www.google.com/search?q=Data+Structure+and+Algorithms&oq=Data+Structure+and+Algorithms&aqs=chrome..69i57j69i59j69i60l3.529j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=web+automation+using+puppeteer&sca_esv=577680127&sxsrf=AM9HkKnfLepWyeFyA1pnSsPPXQOzTPxuvg%3A1698626279398&ei=5_o-Zfr9F7WYseMP1NWh6AM&oq=Web+Automation+pu&gs_lp=Egxnd3Mtd2l6LXNlcnAiEVdlYiBBdXRvbWF0aW9uIHB1KgIIADIGEAAYFhgeMgYQABgWGB4yCBAAGIoFGIYDMggQABiKBRiGAzIIEAAYigUYhgNIsBdQ5wVY0gpwAXgBkAEAmAHZAaABygSqAQUwLjEuMrgBA8gBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIKEAAYigUYsAMYQ8ICDhAAGOQCGNYEGLAD2AEBwgIWEC4YigUYxwEY0QMYyAMYsAMYQ9gBAsICBBAjGCfCAgcQIxiKBRgnwgIHEAAYigUYQ8ICBRAAGIAE4gMEGAAgQYgGAZAGEboGBggBEAEYCboGBggCEAEYCA&sclient=gws-wiz-serp))
+-   ### 🌱 I’m currently learning Go
 
 -   ### 💬 Ask me about **Web Solutions and SEO**
 
