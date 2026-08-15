@@ -64,6 +64,9 @@
 | Project | What it is |
 |---|---|
 | [home-lab](https://github.com/mdmahfujarrahman/home-lab) | Kubernetes manifests for my single-node k3s cluster — Traefik, MetalLB, NFS storage, Prometheus/Grafana, and self-hosted apps |
+| [university-management-auth-services](https://github.com/mdmahfujarrahman/university-management-auth-services) | REST API in Node.js, Express, and TypeScript, with every module split into route, validation, controller, service, and model |
+| [lib-dynamic-localization](https://github.com/mdmahfujarrahman/lib-dynamic-localization) | An i18n package for React apps that render on both the server and the client, published through a GitHub Actions workflow |
+| [native-food-app](https://github.com/mdmahfujarrahman/native-food-app) | React Native food ordering app built with Expo Router and Appwrite |
 | [portfolio-3d](https://github.com/mdmahfujarrahman/portfolio-3d) | My portfolio, built with Next.js and Three.js |
 
 <br />
@@ -72,20 +75,18 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/md-mahfujar-rahman/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/Mahfujahmed28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Mahfuj.ahmed0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahfujar.rahman.46/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
 <br />
 
 <p align="center">
-   <table>
-   <h1 align="center">GitHub Stats</h1>
-       <tr>
-       <td><img alt="mdmahfujarrahman :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mdmahfujarrahman&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="mdmahfujarrahman :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahfujarrahman&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img align="center" src="https://streak-stats.demolab.com?user=mdmahfujarrahman&theme=blue-green&hide_border=true"></td>
-     </tr>
-   </table>
+  <img alt="mdmahfujarrahman :: Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmahfujarrahman&theme=github_dark" />
+</p>
+<p align="center">
+  <img alt="mdmahfujarrahman :: Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmahfujarrahman&theme=github_dark" />
+  <img alt="mdmahfujarrahman :: Commit stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmahfujarrahman&theme=github_dark" />
+</p>
+<p align="center">
+  <img alt="mdmahfujarrahman :: Streak" src="https://streak-stats.demolab.com?user=mdmahfujarrahman&theme=blue-green&hide_border=true" />
 </p>
