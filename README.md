@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mdmahfujarrahman.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/md-mahfujar-rahman/">LinkedIn</a> ·
-  <a href="mailto:ahmedmahfuj28@gmail.com">Email</a>
+  <a href="mailto:mahfujarrah@gmail.com">Email</a>
 </p>
 
 <br />
@@ -17,7 +17,7 @@
 - 🧱 &nbsp;Led my team's move to **Clean Architecture** and a Turborepo monorepo
 - 🐳 &nbsp;Self-hosting a **k3s Kubernetes cluster** at home — see [home-lab](https://github.com/mdmahfujarrahman/home-lab)
 - 🌱 &nbsp;Currently digging into **relational databases (MySQL)** and event-driven systems
-- 📫 &nbsp;Reach me at **ahmedmahfuj28@gmail.com**
+- 📫 &nbsp;Reach me at **mahfujarrah@gmail.com**
 - ⚡ &nbsp;Fun fact: **Smile is my strength :)**
 
 <br />
